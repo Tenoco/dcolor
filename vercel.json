@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://echonet2.onrender.com/dcolor/$1" }
+  ]
+}
